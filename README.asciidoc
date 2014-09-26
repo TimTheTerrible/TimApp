@@ -1,0 +1,7 @@
+= TimApp
+
+A perl library that provides a basic application framework
+
+== Features
+* Interfaces with TimUtil and timDB
+
